@@ -1,0 +1,7 @@
+config/database/test.json
+.env
+bin/air.exe
+tmp
+.air.
+readme.md
+readme.txt
